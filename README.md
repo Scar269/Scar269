@@ -31,11 +31,3 @@ Soy estudiante de **Ingeniería de Software y Sistemas Computacionales**, apasio
 ## 📊 Mis estadísticas en GitHub
 
 ![Scar269's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scar269&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar269&layout=compact&theme=rose_pine)
-
----
-
-## 📫 ¿Quieres contactarme?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil-aquí](https://mx.linkedin.com/in/scarlett-gonz%C3%A1lez-mart%C3%ADnez)
-[![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:scarlettv.0208@gmail.com)
